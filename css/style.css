@@ -206,9 +206,10 @@ img {
 	display: flex;
 	padding-top: 100px;
 }
-/* .app_exmpl{
-	margin-right: 116px;
-} */
+.app_exmpl{
+	display: flex;
+    align-items: flex-end;
+}
 .introducing{
 	padding: 75px 0;
 }
